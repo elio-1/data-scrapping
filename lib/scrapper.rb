@@ -7,21 +7,22 @@ def scrapper
   money_name_and_price = []
   name = []
   price = []
-  get_datas = parsed_page.css('tbody')## target the block containing datas
-  get_datas.each do |data_list|
-    name = data_list.css('tr.cmc-table-row > td:nth-child(3) > div').text
+  #get_datas = parsed_page.css('tbody')## target the block containing datas
+  
+    parsed_page.css('tr.cmc-table-row  > td:nth-child(3) > div').each do |scrap|
+    name.push(scrap.content)
   end
-  get_datas.each do |data_list|
-    price = data_list.css('tr.cmc-table-row > td:nth-child(5) > div > a').text.to_s
+  parsed_page.css('tr.cmc-table-row  > td:nth-child(5) > div > a').each do |scrap|
+    price.push(scrap.content)
   end
-  money_name_and_price = Hash[name(price)]
-  money_name_and_price.each do |key, value||
+  money_name_and_price = Hash[name.zip(price)]
+  money_name_and_price.each do |key, value|
   puts key + ' : ' + value
   end
   return money_name_and_price
 end
 
-puts scrapper
+scrapper
   
 
  # => Nokogiri::HTML::Document
