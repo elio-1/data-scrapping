@@ -1,18 +1,12 @@
 # The Art of scrapping
+<p align="center">
+  <img src+'https://lws-abt5wcf.netdna-ssl.com/blogs/wp-content/uploads/2014/10/Web-scraping-1.jpg'/>
+</p>
 **A scrapping project for The Hacking Project**
 
 ----------
 
-
-
-
-
-
-
-
 The point of this program is to fetch cryptocurerncy name and value, email and name of the person.
-
-
 
 ### Installation 
 Data-scrapping's installation is pretty standard:
