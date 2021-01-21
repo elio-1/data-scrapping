@@ -47,6 +47,3 @@ About this project :
 I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
 Cheers
 
-<p align='center'>
-  <img src='https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif'/>
-</p>
