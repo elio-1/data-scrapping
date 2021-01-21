@@ -3,7 +3,16 @@
 
 ----------
 
+
+
+
+
+
+
+
 The point of this program is to fetch cryptocurerncy name and value, email and name of the person.
+
+
 
 ### Installation 
 Data-scrapping's installation is pretty standard:
