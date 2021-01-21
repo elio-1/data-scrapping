@@ -1,8 +1,6 @@
-# The Art of scrapping
-<p align="center">
-  <img src+'https://lws-abt5wcf.netdna-ssl.com/blogs/wp-content/uploads/2014/10/Web-scraping-1.jpg'/>
-</p>
-**A scrapping project for The Hacking Project**
+# Data scrapping
+
+A scrapping project for The Hacking Project
 
 ----------
 
@@ -16,22 +14,22 @@ $ git clone
 ```
 Clone or fork to add the project on your environnment.
 
-```rb
+```sh
 $ bundle install
 ``` 
 To install all the gem dependancies
 
-```rb
+```sh
 $ ruby lib/scrapper.rb
 ```
 To run the first program who will bring up cryptocurrency value
 
-```rb
+```sh
 $ ruby lib/mayor.rb
 ```
 To run the second program who will fetch for you all the name and the email of every mayor in the Val d'Oise, neat.
 
-```rb
+```sh
 $ ruby lib/depute.rb
 ```
 To run the last program will find deputies names and email adresses.
@@ -48,3 +46,7 @@ About this project :
 
 I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
 Cheers
+
+<p align='center'>
+  <img src='https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif'/>
+</p>
