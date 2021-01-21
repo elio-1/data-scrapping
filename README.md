@@ -4,7 +4,7 @@ A scrapping project for The Hacking Project
 
 ----------
 
-The point of this program is to fetch cryptocurerncy name and value, email and name of the person.
+The point of this program is to fetch: 1) cryptocurerncy name and value 2) email and name of the person.
 
 ## Installation 
 Data-scrapping's installation is pretty standard:
