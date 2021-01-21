@@ -1,6 +1,6 @@
 # Data scrapping :rocket:
 
-A scrapping project for The Hacking Project
+A scrapping project for <a href='https://www.thehackingproject.org/fr/dashboard'>The Hacking Project</a>
 
 ----------
 
@@ -43,9 +43,9 @@ To run the last program will find deputies names and email adresses.
 
 ----------
 
-## About this project :moyai:
+## About this project 
 
 I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
 
-Cheers
+Cheers :smile:
 
