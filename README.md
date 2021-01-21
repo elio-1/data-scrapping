@@ -6,7 +6,7 @@ A scrapping project for The Hacking Project
 
 The point of this program is to fetch cryptocurerncy name and value, email and name of the person.
 
-### Installation 
+## Installation 
 Data-scrapping's installation is pretty standard:
 
 ```sh
@@ -36,14 +36,16 @@ To run the last program will find deputies names and email adresses.
 
 ----------
 
-Then, you can :
+## Test the files :
+
 - Run the tests by using command `rspec`
 - Run `rubocop` if you want
 
 ----------
 
-About this project :
+## About this project :
 
 I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
+
 Cheers
 
