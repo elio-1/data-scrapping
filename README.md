@@ -1,8 +1,5 @@
-
-<p align="center"># The Hacking Project</p>
-**Week 2 - Day 4 : The Art of scrapping**
-
-A scrapping project for The Hacking Project
+# The Hacking Project
+**A scrapping project for The Hacking Project**
 
 ----------
 
