@@ -1,4 +1,4 @@
-# Data scrapping
+# Data scrapping :rocket:
 
 A scrapping project for The Hacking Project
 
@@ -36,14 +36,14 @@ To run the last program will find deputies names and email adresses.
 
 ----------
 
-## Test the files :
+## Test the files
 
 - Run the tests by using command `rspec`
 - Run `rubocop` if you want
 
 ----------
 
-## About this project :
+## About this project :moyai:
 
 I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
 
