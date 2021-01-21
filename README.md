@@ -1,17 +1,16 @@
 
 # The Hacking Project
-
-
-## Week 2 - Day 4 : The Art of scrapping
+Week 2 - Day 4 : The Art of scrapping
 
 A scrapping project for The Hacking Project
 
-**
+***
 
 The point of this program is to fetch cryptocurerncy name and value, email and name of the person.
 
 ### Installation 
 Data-scrapping's installation is pretty standard:
+
 ```$ git clone```
 Or fork to add the project on your environnment.
 
