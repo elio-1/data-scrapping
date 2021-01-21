@@ -10,7 +10,7 @@ The point of this program is to fetch cryptocurerncy name and value, email and n
 Data-scrapping's installation is pretty standard:
 
 ```sh
-$ git clone
+$ git clone git@github.com:elio75006/data-scrapping.git
 ```
 Clone or fork to add the project on your environnment.
 
