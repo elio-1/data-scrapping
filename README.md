@@ -1,5 +1,5 @@
-# The Hacking Project
-**A scrapping project for The Hacking Project**
+# The Art of scrapping
+**A scrapping project for The Hacking Project
 
 ----------
 
@@ -26,3 +26,9 @@ To run the first program who will bring up cryptocurrency value
 Then, you can :
 - Run the tests by using command `rspec`
 - Run `rubocop`
+
+
+About me :
+
+I'm a student in informatic, this project is an attempt to learn the basics of data scrapping by doing, if you have any recommendation I will be very happy :)
+Cheers
