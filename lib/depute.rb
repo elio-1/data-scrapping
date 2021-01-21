@@ -55,8 +55,10 @@ def program
   # Display all the town + the email of the mayor
   emails_hash.each do |key, value|
     puts key + ' : ' + value
-  end
     rescue RuntimeError
+    rescue TypeError
+  end
+    
 end
 def menu
 user_choice = ""
@@ -73,7 +75,7 @@ puts 		"""
 		user_choice = gets.chomp
 		case user_choice
 		when "1"
-		  puts 'fetching data...'
+		  puts 'fetching data...  this might take a while so grab a coffe :)'
 			program
 			puts 'Bye'
 			user_choice = "2"
