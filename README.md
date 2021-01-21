@@ -1,5 +1,5 @@
 # The Art of scrapping
-**A scrapping project for The Hacking Project
+**A scrapping project for The Hacking Project**
 
 ----------
 
